@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>xaurrutia 24-25</title>
+  <link>https://xaurrutia.github.io/2425xaurrutia/</link>
+  <description>Nire probatarako web-orria</description>
+  <language>es-es</language>
+  <managingEditor>xaurrutia@birt.eus (Xabier Urrutia)</managingEditor>
+  <docs>http://www.rssboard.org/rss-2-0</docs>
+  <pubDate>Tue, 03 Dec 2024 10:52:27 GMT</pubDate>
+  <lastBuildDate>Tue, 03 Dec 2024 10:52:27 GMT</lastBuildDate>
+<!--
+
+ --> 
+ <item>
+	<title><![CDATA[Seguridad vial en el ámbito laboral. Formación on-line. Curso 2024-2025 (12ª edición)]]></title>
+	<link>https://www.euskadi.eus/enlace/seguridad-vial-en-el-ambito-laboral-formacion-on-line-curso-2023-2024-11-edicion/web01-s2hhome/es/</link>
+	<description><![CDATA[Seguridad vial en el ámbito laboral. Formación on-line. Curso 2024-2025 (12ª edición)
+]]></description>
+	
+	<guid isPermaLink='true'>https://www.euskadi.eus/enlace/seguridad-vial-en-el-ambito-laboral-formacion-on-line-curso-2023-2024-11-edicion/web01-s2hhome/es/</guid>
+	<pubDate>Mon, 02 Dec 2024 13:46:00 GMT</pubDate>
+	<category domain='euskadi.eus'><![CDATA[Enlace]]></category>
+	<category domain='euskadi.eus'><![CDATA[Viceconsejería de Administración y Servicios]]></category>
+	<category domain='euskadi.eus'><![CDATA[Centros escolares]]></category>
+	<category domain='euskadi.eus'><![CDATA[Dirección de Gestión de Personal]]></category>
+	<category domain='euskadi.eus'><![CDATA[Gobierno Vasco]]></category>
+	<category domain='euskadi.eus'><![CDATA[Curso escolar]]></category>
+	<category domain='euskadi.eus'><![CDATA[Personas]]></category>
+	<category domain='euskadi.eus'><![CDATA[Educación]]></category>
+	<category domain='euskadi.eus'><![CDATA[Educación]]></category>
+</item>
+ <item>
+    <title><![CDATA[Acreditación de la competencia digital docente al profesorado de centros de formación profesional. Resolución definitiva]]></title>
+    <link>https://xaurrutia.w3spaces.com/imagenes/imagen01.png</link>
+    <description>Os muestro mi primera imagen.</description>
+    <pubDate>Sat, 02 Dec 2024 12:00:00 GMT</pubDate>
+
+    <author>xaurrutia@birt.eus</author>
+  </item>  
+</channel>
+
+</rss>
